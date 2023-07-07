@@ -4,5 +4,6 @@ Coordinated by Prof. Dr. Kelson Mota Teixeira de Oliveira, and built by scientif
 
 Research group website:
 
-[1] https://lqtcsiteufam.wordpress.com/ \\
+[1] https://lqtcsiteufam.wordpress.com/ 
+
 [2] https://micael-oliveira-ufam.github.io/lqtc-ufam/
